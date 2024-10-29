@@ -4,7 +4,7 @@ ToDo List je jednoduchá webová aplikace pro správu úkolů. Uživatelé mohou
 
 ## Náhled aplikace
 
-![Náhled aplikace]() <!-- nahraďte odkaz skutečným odkazem na obrázek -->
+ https://manolachelucian.github.io/TodoList/
 
 ## Technologie
 
