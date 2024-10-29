@@ -24,6 +24,6 @@ ToDo List je jednoduchá webová aplikace pro správu úkolů. Uživatelé mohou
 
 1. Naklonujte tento repozitář:
     ```bash
-    git clone https://github.com/manolachelucian/todo-list.git
+   git clone https://github.com/manolachelucian/todo-list.git](https://github.com/manolachelucian/TodoList.git)
     ```
 
